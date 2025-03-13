@@ -6,7 +6,7 @@ I’m an aspiring software engineer with a passion for web development 💻, des
 
 ## Skills:
 <p align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering;Frontend+Development;FullStack+Development;Application+Development;DevOps;Network+Engineering&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering;Frontend+Development;FullStack+Development;Application+Development;DevOps;Network+Engineering;Photography&amp;center=true&amp;width=380&amp;height=45">
 </p>
 
 
@@ -58,3 +58,13 @@ I’m an aspiring software engineer with a passion for web development 💻, des
 ## Languages:
 - Fluency in English 🇬🇧
 - Intermediate French 🇫🇷
+
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
+
+<div align="center" class="icons-social" style="margin-left: 10px;">
+ 	<a style="margin-left: 10px;" target="_blank" href="https://itsrekas.github.io/Portfolio/"><img src="https://img.icons8.com/?size=50&amp;id=ipBLdOAQ6sRn&amp;format=png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/reginaldkotey/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/itsRekas"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_r.e.k.a.s_/"><img src="https://img.icons8.com/doodle/1x/instagram-new.png"></a>
+<p></p>
+</div><br>
