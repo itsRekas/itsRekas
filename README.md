@@ -1,16 +1,14 @@
-**Hello!, I am [Reginald](https://itsrekas.github.io/Portfolio/) 👋🏾**
+<h3 id="Me">Hello!, I am <a href="https://itsrekas.github.io/Portfolio/">Reginald</a> 👋🏾</h3>
 
 <img src="./Intro.png" alt="My Introductory Picture">
 
 I’m an aspiring software engineer with a passion for web development 💻, design 🎨, application development 📱, and computer security 🔐. As a student at New York University 🏫, I've had the chance to dive deep into data structures, algorithms, and programming languages like C/C++, Python, JavaScript, and React. My internship at the University of Cape Coast 🌍 as a Network Software Engineering Intern also allowed me to sharpen my networking and security skills. I'm excited to continue expanding my knowledge and skill set as I progress through my academic and professional journey 📈.
 
 ## Skills:
-- Data Structures 🗂, Web Development 🌐, C++/C, HTML/CSS 🖥️
-- Algorithms 📊, Computer Security 🔒, Python 🐍, JavaScript ⚡
+<p align="center">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering;Frontend+Development;FullStack+Development;Application+Development;DevOps;Network+Engineering&amp;center=true&amp;width=380&amp;height=45">
+</p>
 
-## Languages:
-- Fluency in English 🇬🇧
-- Intermediate French 🇫🇷
 
 <h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
 <p>
@@ -56,3 +54,7 @@ I’m an aspiring software engineer with a passion for web development 💻, des
   <img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=red" alt="Figma"> 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"> 
 </p>
+
+## Languages:
+- Fluency in English 🇬🇧
+- Intermediate French 🇫🇷
