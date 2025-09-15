@@ -6,7 +6,7 @@ I'm a full-stack developer and cloud engineer who loves to build cool things! Iâ
 
 ## Skills:
 <p align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering;Frontend+Development;FullStack+Development;Machine Learning+Engineering;DevOps;Network+Engineering;Photography&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering;Frontend+Development;FullStack+Development;Machine+Learning+Engineering;DevOps;Network+Engineering;Photography&amp;center=true&amp;width=380&amp;height=45">
 </p>
 
 
